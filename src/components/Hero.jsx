@@ -5,12 +5,12 @@ export default function Hero() {
   return (
     <div className="bg-white h-screen flex flex-col justify-center items-center">
       <h1 className="lg:text-9xl md:text-7xl sm:text-5xl text-3xl font-black mb-14">
-        EGGCELLECT
+        EGGEATER
       </h1>
 
       <Link
         to=""
-        className="py-6 px-10 bg-yellow-500 rounded-full text-3xl hover:bg-yellow-400 transition duration-300 ease-in-out flex items-center animate-bounce"
+        className="py-6 px-10 bg-orange-500 rounded-full text-3xl hover:bg-orange-600 transition duration-300 ease-in-out flex items-center animate-bounce"
       >
         Order Now{" "}
         <svg
