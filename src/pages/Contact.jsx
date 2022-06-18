@@ -1,10 +1,10 @@
 import React from 'react'
 
-export default function Menu() {
+export default function Contact() {
   return (
     <div className="h-screen flex justify-center items-center bg-yellow-300">
         <h1 className="text-9xl uppercase font-black">
-            Menu Page
+            Contact Page
         </h1>
     </div>
   )

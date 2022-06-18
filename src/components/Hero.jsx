@@ -9,7 +9,7 @@ export default function Hero() {
       </h1>
 
       <Link
-        to=""
+        to="/"
         className="py-6 px-10 bg-orange-500 rounded-full text-3xl hover:bg-orange-600 transition duration-300 ease-in-out flex items-center animate-bounce"
       >
         Order Now{" "}
